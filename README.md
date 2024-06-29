@@ -1,5 +1,6 @@
-## Hi there, I'm Madhu Nadh Gurram👋
-A motivated BTech graduate leveraging analytical prowess and programming skills to drive team success, enhance organizational outcomes, and advance personal career growth.
+## Hi there, 
+I'm *MADHU NADH GURRAM*👋
+_A motivated BTech graduate leveraging analytical prowess and programming skills to drive team success, enhance organizational outcomes, and advance personal career growth._
 <!--
 **MadhuNadhGurram/MadhuNadhGurram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
