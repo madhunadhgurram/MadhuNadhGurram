@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: gurram.madhunadh@gmail.com
+- https://www.linkedin.com/in/madhunadh-gurram-51141420a/
