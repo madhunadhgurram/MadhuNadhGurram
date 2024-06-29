@@ -1,4 +1,4 @@
-## Hi there, 
+Hi there, 
 ## I'm MADHU NADH GURRAM👋 
 
 _A motivated BTech graduate leveraging analytical prowess and programming skills to drive team success, enhance organizational outcomes, and advance personal career growth._
