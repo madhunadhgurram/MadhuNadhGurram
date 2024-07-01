@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ![image](https://github.com/MadhuNadhGurram/MadhuNadhGurram/assets/84019306/92a561f5-313f-4b10-8c3a-1ac2ead63ca4) ![OIP](https://github.com/MadhuNadhGurram/MadhuNadhGurram/assets/84019306/286306bf-429a-4265-8092-50d95ef48f48) Vinukonda, India
+- ![image](https://github.com/MadhuNadhGurram/MadhuNadhGurram/assets/84019306/92a561f5-313f-4b10-8c3a-1ac2ead63ca4)  Vinukonda, India
 - ![image](https://github.com/MadhuNadhGurram/MadhuNadhGurram/assets/84019306/ad39fe23-2d5c-4c0a-922a-2b7826cbe9ed)  gurram.madhunadh@gmail.com
 - ![image](https://github.com/MadhuNadhGurram/MadhuNadhGurram/assets/84019306/352c9a0d-2c45-4fcb-b4fc-04bd446e8ed6)  https://www.linkedin.com/in/madhunadh-gurram-51141420a/
 
