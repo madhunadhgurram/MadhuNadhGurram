@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ![image](https://github.com/MadhuNadhGurram/MadhuNadhGurram/assets/84019306/ad39fe23-2d5c-4c0a-922a-2b7826cbe9ed)  gurram.madhunadh@gmail.com
 - ![image](https://github.com/MadhuNadhGurram/MadhuNadhGurram/assets/84019306/352c9a0d-2c45-4fcb-b4fc-04bd446e8ed6)  https://www.linkedin.com/in/madhunadh-gurram-51141420a/
 
-Resume : [[https://drive.google.com/file/d/1LgUEjXtLYkka_HaNBMOTlhMh8NmbAxF6/view?usp=drive_link](https://drive.google.com/file/d/1XuX6S8XowX3Z0Q08-Tqh-hzo_CCEWCSp/view?usp=sharing)](https://drive.google.com/file/d/1DqcG010jdiEMdvYDSCwlc4gc8dnJPxWS/view?usp=sharing)
+Resume : https://drive.google.com/file/d/1DqcG010jdiEMdvYDSCwlc4gc8dnJPxWS/view?usp=sharing
 
 
 
