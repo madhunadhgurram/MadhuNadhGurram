@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - gurram.madhunadh@gmail.com
 - https://www.linkedin.com/in/madhunadh-gurram-51141420a/
 
-Resume : https://drive.google.com/file/d/1DqcG010jdiEMdvYDSCwlc4gc8dnJPxWS/view?usp=sharing
+Resume : https://drive.google.com/file/d/1DqcG010jdiEMdvYDSCwlc4gc8dnJPxWS/view?usp=sharing 
 
 
 
