@@ -1,5 +1,4 @@
-Hi there👋     
-## I'm Madhu Nadh Gurram
+Hi there👋 I'm Madhu Nadh Gurram
  
 _A motivated BTech graduate leveraging analytical prowess and programming skills to drive team success, enhance organizational outcomes, and advance personal career growth._
 
@@ -13,9 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 - Vinukonda, India
 - gurram.madhunadh@gmail.com
