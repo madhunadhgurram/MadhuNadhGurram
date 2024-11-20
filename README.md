@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - gurram.madhunadh@gmail.com
 - https://www.linkedin.com/in/madhunadh-gurram-51141420a/
 
-Resume : https://drive.google.com/file/d/1ZIE6iZVP_Xmtp5NnDNmTGu5h5jFXLaG2/view?usp=drive_link
-
-
+Resume : https://drive.google.com/file/d/1dgqdVapXsK1yrv9Y_9fS1CkkWBe2ZwF5/view?usp=drive_link
 
 
