@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- Vinukonda, India
+- Vinukonda, India.
 - gurram.madhunadh@gmail.com
 - https://www.linkedin.com/in/madhunadh-gurram-51141420a/
 
