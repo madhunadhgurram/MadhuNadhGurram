@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 Resume : https://drive.google.com/file/d/1dgqdVapXsK1yrv9Y_9fS1CkkWBe2ZwF5/view?usp=drive_link
 
+![Madhu Nadh - Resume_page-0001](https://github.com/user-attachments/assets/da25dbf8-57d3-4e8b-b465-9023d6faef00)
+
+
 
