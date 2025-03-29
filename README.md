@@ -20,11 +20,11 @@
 
 ### 📌 Featured Projects:
 
-1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** - [🔗 [GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)](#)  
-   - 🌟 Brief description of the project.
-   - 🛠 Tech Used: AWS, Terraform, Kubernetes
+1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** - [🔗 [GitHub Repo](Tools used: Python Libraries, Machine Learning Algorithms)(https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)]  
+   - 🌟 Developed a sophisticated application interface that integrates static and dynamic features to convert sign gestures to text and text-to-speech (TTS), facilitating communication for individuals with deaf and mute impairments.
+   - 🛠 Tools used: Python Libraries & GUI Frameworks, Machine Learning Algorithms
 
-2️⃣ **Project Name** - [🔗 GitHub Repo](#)  
+2️⃣ **Software Version Control With GIT** - [🔗 GitHub Repo](#)  
    - 🌟 Brief description of the project.
    - 🛠 Tech Used: Docker, Ansible, CI/CD
 
