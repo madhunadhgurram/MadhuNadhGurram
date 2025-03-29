@@ -1,10 +1,10 @@
 ### Hi there! 👋 I'm Madhu Nadh Gurram
 
-🚀 Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities
+**🚀 Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities**
 
 > 💡 Striving to bridge the gap between development and operations, one automation at a time!
 
-🌍 Always eager to explore and implement cutting-edge DevOps practices.
+> 🌍 Always eager to explore and implement cutting-edge DevOps practices.
 
 ---
 ### 🛠 Tech Stack & Skills  
@@ -26,6 +26,12 @@
 
 #### 🗄️ Databases  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🚀 Competencies  
+
+- 🔹 Analytical Thinking
+- 🔹 Team Working 
+- 🔹 Collaboration  
 
 ---
 
