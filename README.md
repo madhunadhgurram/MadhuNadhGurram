@@ -1,5 +1,5 @@
-### Hi there!👋 
-### I'm Madhu Nadh Gurram
+Hi there!👋 
+## I'm Madhu Nadh Gurram
 
 **Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities🚀**
 
@@ -28,11 +28,8 @@
 #### 🗄️ Databases  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 🚀 Competencies  
-
-- 🔹 Analytical Thinking
-- 🔹 Team Working 
-- 🔹 Collaboration  
+#### 🚀 Competencies  
+🔹 Analytical Thinking, Team Working and Collaboration
 
 ---
 
@@ -48,12 +45,13 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
+
 ### 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
 ---
 
 
@@ -66,5 +64,14 @@
 📧 Email: gurram.madhunadh@gmail.com
 
 ---
+
+### 🎯 Hobbies & Interests  
+
+- 📚 Reading Novels
+- 🏸 Playing Badminton  
+- 🤝 Volunteering & Community Services 
+- 🎵 Music & Podcast Listening  
+
+
 
 ⚡ **"Empowering automation today for a smarter, seamless tomorrow!🚀"**
