@@ -32,11 +32,11 @@ Hi there!👋
 
 ### 📌 Academic Projects:
 
-1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** - 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)
+1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)
    - 🌟 Developed a sophisticated application interface that integrates static and dynamic features to convert sign gestures to text and text-to-speech (TTS), facilitating communication for individuals with deaf and mute impairments.
    - 🛠 Tech used: Python Libraries, Machine Learning Algorithms
 
-2️⃣ **Software Version Control With GIT** - 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Software_Version_Control_With_Git) 
+2️⃣ **Software Version Control With GIT** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Software_Version_Control_With_Git) 
    - 🌟 Effectively deployed a dynamic web page utilizing Git Bash and Jenkins tools within a Linux environment, showcasing adeptness and proficiency in modern development methodologies.
    - 🛠 Tech used: Git, GitHub, AWS EC2 and Jenkins
 
@@ -47,6 +47,7 @@ Hi there!👋
 ### 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight)
 
 ---
