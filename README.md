@@ -62,9 +62,9 @@ Hi there!👋
 
 ### 📫 Connect with Me:
 
-📧 Email: gurram.madhunadh@gmail.com
+📧 For inquiries, reach out via email: [gurram.madhunadh@gmail.com](mailto:gurram.madhunadh@gmail.com)
 
-Have a question? Feel free to [open an issue](https://github.com/madhunadhgurram/repository/issues).
+💬 Have a question? Feel free to [open an issue](https://github.com/madhunadhgurram/repository/issues).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/madhunadh-gurram-51141420a)   
 
