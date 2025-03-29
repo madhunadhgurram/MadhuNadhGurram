@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack & Skills:
 
-![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS1-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure]([https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white])
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
