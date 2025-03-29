@@ -13,9 +13,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black) https://th.bing.com/th/id/R.8c1719d731849436c9b734d7d65e9558?rik=bSbWm6hjVbDSPg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpython-logo-png-big-image-png-2400.png&ehk=QVy%2f7oOiTJ16YDb0ys7dyNAHnvvwPX1WAaD7AvoVnTU%3d&risl=&pid=ImgRaw&r=0
-![SQL](https://img.shields.io/badge/SQL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-FCC624?style=for-the-badge&logo=sql&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html&logoColor=black)
 
 ---
 
