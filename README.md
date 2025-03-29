@@ -40,8 +40,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/madhunadh-gurram-51141420a)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhunadhgurram)  
-📧 **Email:** gurram.madhunadh@gmail.com
+**📧 Email: gurram.madhunadh@gmail.com**
 ---
 
 ⚡ **"Automating today for a seamless tomorrow!"**
-
