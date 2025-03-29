@@ -1,8 +1,7 @@
 ### Hi there! 👋 I'm Madhu Nadh Gurram
 
-🚀 **Passionate DevOps Engineer | Cloud Enthusiast | Seeking DevOps & Cloud Roles**
+🚀 **Passionate DevOps Engineer | Cloud Enthusiast | Skilled in DevOps, Cloud, and Automation | CI/CD | Terraform | Docker | Kubernetes | Seeking for DevOps & Cloud Roles**
    
-Skilled in DevOps, Cloud, and Automation | CI/CD | Terraform | Docker | Kubernetes
 🌍 Always eager to explore and implement cutting-edge DevOps practices.
 
 ---
