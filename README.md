@@ -31,8 +31,9 @@ Hi there!👋
 
 #### 🚀 Competencies  
 
-![Team Working](https://img.shields.io/badge/Teamworking-7B42BC?style=for-the-badge)  
-![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-7B42BC?style=for-the-badge)  
+
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-7B42BC?style=for-the-badge&labelColor=black&color=black)
+![Team Working](https://img.shields.io/badge/Team%20Working-7B42BC?style=for-the-badge&labelColor=black&color=blue)
 ![Collaboration](https://img.shields.io/badge/Collaboration-7B42BC?style=for-the-badge)  
 
 ---
