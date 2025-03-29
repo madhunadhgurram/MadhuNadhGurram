@@ -15,7 +15,7 @@ Hi there!👋
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
-###### 🔧 DevOps & Automation  
+#### 🔧 DevOps & Automation  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
@@ -31,12 +31,12 @@ Hi there!👋
 
 #### 🚀 Competencies  
 🔹 Analytical Thinking, Team Working and Collaboration
-![Team Working](https://img.shields.io/badge/Teamworking-7B42BC?style=for-the-badge&logo=teamworking&logoColor=white)  
+![Team Working](https://img.shields.io/badge/Teamworking-7B42BC?style=for-the-badge)  
 
 
 ---
 
-### 📌 Featured Projects:
+### 📌 Academic Projects:
 
 1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** - 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)
    - 🌟 Developed a sophisticated application interface that integrates static and dynamic features to convert sign gestures to text and text-to-speech (TTS), facilitating communication for individuals with deaf and mute impairments.
