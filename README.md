@@ -16,8 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black) 
 ![SQL](https://img.shields.io/badge/SQL-FCC624?style=for-the-badge&logo=sql&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
