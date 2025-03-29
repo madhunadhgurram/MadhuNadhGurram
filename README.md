@@ -17,6 +17,9 @@ Bye:  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&log
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
+
 ---
 
 ### 📌 Featured Projects:
