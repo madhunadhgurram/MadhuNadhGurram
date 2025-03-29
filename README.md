@@ -30,9 +30,10 @@ Hi there!👋
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 #### 🚀 Competencies  
-🔹 Analytical Thinking, Team Working and Collaboration
-![Team Working](https://img.shields.io/badge/Teamworking-7B42BC?style=for-the-badge)  
 
+![Team Working](https://img.shields.io/badge/Teamworking-7B42BC?style=for-the-badge)  
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-7B42BC?style=for-the-badge)  
+![Collaboration](https://img.shields.io/badge/Collaboration-7B42BC?style=for-the-badge)  
 
 ---
 
