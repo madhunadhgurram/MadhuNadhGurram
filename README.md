@@ -6,7 +6,6 @@
 ---
 
 ### 🛠 Tech Stack & Skills:
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -21,7 +20,7 @@
 
 ### 📌 Featured Projects:
 
-1️⃣ **Project Name** - [🔗 GitHub Repo](#)  
+1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** - [🔗 [GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)](#)  
    - 🌟 Brief description of the project.
    - 🛠 Tech Used: AWS, Terraform, Kubernetes
 
