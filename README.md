@@ -1,7 +1,4 @@
-Hi there👋 I'm Madhu Nadh Gurram,
-
-
-### Hi there! 👋 I'm [Your Name]
+### Hi there! 👋 I'm Madhu Nadh Gurram
 
 🚀 **Passionate DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
 🌍 Always eager to explore and implement cutting-edge DevOps practices.
