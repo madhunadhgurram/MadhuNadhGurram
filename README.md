@@ -1,17 +1,18 @@
-Hi there! 👋 I'm Madhu Nadh Gurram
+### Hi there! 👋 I'm Madhu Nadh Gurram
 
-🚀 **Passionate DevOps Engineer | Cloud Enthusiast skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Seeking for DevOps & Cloud Roles**
+🚀 Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities
 
 🌍 Always eager to explore and implement cutting-edge DevOps practices.
 
 ---
 ### 🛠 Tech Stack & Skills:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+Cloud Technologies : ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+                     ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+hieee : ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Bye:  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +45,7 @@ Hi there! 👋 I'm Madhu Nadh Gurram
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhunadhgurram)  
 
 📧 Email: gurram.madhunadh@gmail.com
+
 ---
 
-⚡ **"Automating today for a seamless tomorrow!"**
+⚡ **"Empowering automation today for a smarter, seamless tomorrow!🚀"**
