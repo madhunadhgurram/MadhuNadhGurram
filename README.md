@@ -53,6 +53,11 @@ Hi there!👋
 
 ---
 
+### Personal Details:
+- #### Date of Birth: 10th March 2000
+- #### Nationality: Indian
+- #### Languages Known: English, Hindi
+
 ### 🎯 Hobbies & Interests  
 
 - 📚 Reading Novels
