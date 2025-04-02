@@ -43,9 +43,12 @@ Hi there!👋
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
+
 
 ### 📊 GitHub Stats:
+[![GitHub followers](https://img.shields.io/github/followers/madhunadhgurram?style=social)](https://github.com/madhunadhgurram?tab=followers)
+
+![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=tokyonight)
 
