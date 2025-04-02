@@ -44,7 +44,7 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 ---
 ### 🏆 Achievements:  
 
-[![CodeChef Stats](https://api.codechef.com/users/madhunadh/badges)](https://www.codechef.com/users/madhunadh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Visit_Profile-orange?logo=codechef)](https://www.codechef.com/users/madhunadh)
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements)  
 
