@@ -1,5 +1,4 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
-
  
 # I'm Madhu Nadh Gurram
 
@@ -43,21 +42,24 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
    - 🛠 Tech used: Git, GitHub, AWS EC2 and Jenkins
 
 ---
+### 🏆 GitHub Achievements:  
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements)  
+
+🔗 **Check out all my achievements** → [Click Here](https://github.com/madhunadhgurram?tab=achievements)  
 
 
+### 📊 Contributions & GitHub Stats
 
-### 📊 GitHub Stats:
 [![GitHub followers](https://img.shields.io/github/followers/madhunadhgurram?style=social)](https://github.com/madhunadhgurram?tab=followers)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=dark&hide_border=true)       ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=radical&hide_border=true)  
 
 ---
 
-## 🌟 Personal Details  
+### 🌟 Personal Details  
 
 - **Date of Birth:** 21st August 2003  
 - **Nationality:** Indian  
