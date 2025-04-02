@@ -1,4 +1,4 @@
-Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="20">
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
  
 # I'm Madhu Nadh Gurram
