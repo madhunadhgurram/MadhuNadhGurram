@@ -56,6 +56,8 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=dark&hide_border=true)       ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=radical&hide_border=true)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight)
+
 ---
 
 ### 🌟 Personal Details  
