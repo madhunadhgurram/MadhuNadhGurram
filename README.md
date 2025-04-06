@@ -48,9 +48,6 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements)  
 
-🔗 **Check out all my achievements** → [Click Here](https://github.com/madhunadhgurram?tab=achievements)  
-
-
 ### 📊 Contributions & GitHub Stats
 
 [![GitHub followers](https://img.shields.io/github/followers/madhunadhgurram?style=social)](https://github.com/madhunadhgurram?tab=followers)
