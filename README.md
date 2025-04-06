@@ -78,17 +78,9 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 📧 For inquiries, reach out via email: [gurram.madhunadh@gmail.com](mailto:gurram.madhunadh@gmail.com)
 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhunadh-gurram-51141420a)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@vicky_gurram)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/madhunadh-gurram-51141420a)   
-
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhunadhgurram)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gurram_vicky)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhunadhgurram)
 
 ## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
