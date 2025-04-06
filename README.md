@@ -47,8 +47,6 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 [![EdClub Typing Stats](https://img.shields.io/badge/EdClub-Typing%20Stats-blue?style=for-the-badge&logoColor=white)](https://www.edclub.com/sportal/stats.html?username=madhunadhgurram)
 
-
-
 [![CodeChef](https://img.shields.io/badge/CodeChef-Visit_Profile-orange?logo=codechef)](https://www.codechef.com/users/madhunadh)
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements)  
