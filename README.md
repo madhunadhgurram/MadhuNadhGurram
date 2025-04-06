@@ -43,6 +43,8 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ---
 ### 🏆 Achievements:  
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Typing%20Stats-yellow?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Madhunadhgurram)
+
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Visit_Profile-orange?logo=codechef)](https://www.codechef.com/users/madhunadh)
 
