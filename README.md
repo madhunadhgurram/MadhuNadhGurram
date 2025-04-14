@@ -26,6 +26,8 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 #### 🗄️ Databases & Operating Systems 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-2C2C2C?style=for-the-badge&logo=apple&logoColor=white)
 
+
+
 #### 🚀 Competencies  
 
 ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-2C3E50?style=for-the-badge&labelColor)  ![Team Working](https://img.shields.io/badge/Team%20Working-2C3E50?style=for-the-badge&labelColor)
