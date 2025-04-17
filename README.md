@@ -1,7 +1,7 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
  
-# I'm Madhu Nadh Gurram  
-    
+# I'm Madhu Nadh Gurram
+
 **Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities🚀**
 
 📍 Location: Hyderabad, India (Born and brought up in Vinukonda, Andhra Pradesh)
@@ -53,7 +53,7 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=tokyonight)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight&hide_border=false)           ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight)
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements) 
 
@@ -75,5 +75,3 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhunadhgurram)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@vicky_gurram)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gurram_vicky)
-  
-
