@@ -1,6 +1,6 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
   
-# I'm Madhu Nadh Gurram     
+# I'm Madhu Nadh Gurram      
      
 **Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities🚀**
 
@@ -22,6 +22,9 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 #### 💻 Programming & Scripting  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+
+#### 🌐 Networking
+![TCP/IP](https://img.shields.io/badge/TCP--IP-008000?style=for-the-badge&logo=network&logoColor=white)  ![DNS](https://img.shields.io/badge/DNS-0000FF?style=for-the-badge&logo=internet-explorer&logoColor=white)  ![DHCP](https://img.shields.io/badge/DHCP-FF7F00?style=for-the-badge&logo=network&logoColor=white)  ![SMTP](https://img.shields.io/badge/SMTP-FF0000?style=for-the-badge&logo=gmail&logoColor=white)
 
 #### 🗄️ Databases & Operating Systems 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-2C2C2C?style=for-the-badge&logo=apple&logoColor=white)
