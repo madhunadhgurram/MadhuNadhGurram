@@ -10,35 +10,13 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 > 🌍 Always eager to explore and implement cutting-edge DevOps practices. 
 
---- 
 
 ### --> 🛠 Tech Stack & Skills  
-
-| ☁️ Cloud & Platforms                                                                                | ⚙️ DevOps & CI/CD                                                                                         | 🐳 Containers & Orchestration                                                                  | 📊 Monitoring & Infra                                                                          | 🚀 IaC & Automation                                                                         | 💻 Programming Languages                                                           |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)                     | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)                     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)             | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform\&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)       |
-| ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)            | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)          | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible\&logoColor=white)       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white) |
-| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud\&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab\&logoColor=white)                  | <!-- ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm\&logoColor=white)  -->         | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube\&logoColor=white)    | <!-- ![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer\&logoColor=white) --> | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)        |
-
-
-
-
-#### ☁️ Cloud Technologies  
-![AWS](https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazonaws&logoColor=black)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-
-#### 🔧 DevOps & Automation  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-
-#### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-
-#### 🌐 Networking
-![TCP/IP](https://img.shields.io/badge/TCP--IP-008000?style=for-the-badge&logo=network&logoColor=white)  ![DNS](https://img.shields.io/badge/DNS-0000FF?style=for-the-badge&logo=internet-explorer&logoColor=white)  ![DHCP](https://img.shields.io/badge/DHCP-FF7F00?style=for-the-badge&logo=network&logoColor=white)  ![SMTP](https://img.shields.io/badge/SMTP-FF0000?style=for-the-badge&logo=gmail&logoColor=white)
-
-#### 🗄️ Databases & Operating Systems 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-2C2C2C?style=for-the-badge&logo=apple&logoColor=white)
-
-
+| ☁️ Cloud & Platforms                                                                                | ⚙️ DevOps & CI/CD                                                                                         | 🐳 Containers & Orchestration                                                                  | 📊 Monitoring & Infra                                                                          | 🚀 IaC & Automation                                                                         | 💻 Programming Languages                                                              
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- 
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)                     | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)                     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)             | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform\&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)       
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)            | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)          | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible\&logoColor=white)       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white) 
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud\&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab\&logoColor=white)                  | ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm\&logoColor=white)                   | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube\&logoColor=white)    | ![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer\&logoColor=white)          | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)        
 
 #### 🚀 Competencies  
 
@@ -63,12 +41,17 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=tokyonight)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=buefy)
+| ------------- |
 
+<a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="madhunadhgurram's github stats" /></a> | <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=buefy&hide_border=true" /></a> 
+| ------------- |  
+
+<!--
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight)
+-->
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements) 
-
+| ------- |
 ## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
 
 ### --> 🎯 Hobbies & Interests  
