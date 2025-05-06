@@ -14,6 +14,15 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ### --> 🛠 Tech Stack & Skills  
 
+| ☁️ Cloud & Platforms                                                                                | ⚙️ DevOps & CI/CD                                                                                         | 🐳 Containers & Orchestration                                                                  | 📊 Monitoring & Infra                                                                          | 🚀 IaC & Automation                                                                         |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)                     | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)                     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)             | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform\&logoColor=white) |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)            | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)          | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible\&logoColor=white)       |
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud\&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab\&logoColor=white)                  | ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm\&logoColor=white)                   | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube\&logoColor=white)    | ![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer\&logoColor=white)          |
+
+
+
+
 #### ☁️ Cloud Technologies  
 ![AWS](https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazonaws&logoColor=black)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
