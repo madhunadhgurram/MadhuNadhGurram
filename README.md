@@ -41,8 +41,7 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhunadhgurram&theme=github-dark-blue&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=madhunadhgurram&theme=buefy&hide_border=true)
 
 | <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="madhunadhgurram's github stats" /></a> | <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
