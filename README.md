@@ -48,7 +48,7 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <!--
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight)
--->
+--> 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements) 
 
 ## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
