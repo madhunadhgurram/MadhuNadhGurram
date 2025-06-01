@@ -3,15 +3,17 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20views&color=0e75b6&style=flat" alt="madhunadhgurram" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+</p>
 
 <h1 align="center">Madhu Nadh Gurram</h1>
 
 <p align="center">
-  <a href="gurram.madhunadh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:gurram.madhunadh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="http://www.linkedin.com/in/madhunadh-gurram-51141420a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
 </p>
-
 
 <p align="center">Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Jenkins | Terraform | Ansible | Docker | Kubernetes </p>
 <p align="center">Open to DevOps & Cloud opportunities🚀</p>
