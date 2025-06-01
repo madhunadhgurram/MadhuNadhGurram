@@ -4,27 +4,24 @@
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20views&color=0e75b6&style=flat" alt="madhunadhgurram" />
 </p>
 
-
 <h1 align="center">Madhu Nadh Gurram</h1>
 
 <p align="center">
-  <a href="20a91a05b1@aec.edu.in"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sunil-noolu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
+  <a href="mailto:gurram.madhunadh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/madhunadh-gurram-51141420a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/madhunadhgurram">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing software.</p>
 
+<p align="center">Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Jenkins | Terraform | Ansible | Docker | Kubernetes </p>
+<p align="center">Open to DevOps & Cloud opportunities🚀</p>
 
-
-Hi there! 
-
-<p align="center">
-  <b> Madhu Nadh Gurram</b>
-</p>    
----       
-
-**Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities🚀**
  
 📍 Location: Hyderabad, India (Born and brought up in Vinukonda, Andhra Pradesh)
  
