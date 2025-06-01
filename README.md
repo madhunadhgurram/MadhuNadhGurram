@@ -61,8 +61,6 @@
 
 ### ⚡"Empowering automation today for a smarter, seamless tomorrow!"
 ---
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br><br>
-
 ### 🎯 Hobbies & Interests
 - 📚 Reading Novels
 - 🏸 Playing Badminton
