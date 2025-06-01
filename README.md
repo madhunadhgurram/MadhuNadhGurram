@@ -1,15 +1,11 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> I'm Madhu Nadh
-
+### Hi👋 I'M Madhu Nadh
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20views&color=0e75b6&style=flat" alt="madhunadhgurram" />
 </p>
 
-<p align="left"> ![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
 
- <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20views&color=0e75b6&style=flat" alt="Madhu Nadh" /> </p>
-
-<h1 align="center">SUNIL NOOLU</h1>
+<h1 align="center">Madhu Nadh Gurram</h1>
 
 <p align="center">
   <a href="20a91a05b1@aec.edu.in"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
