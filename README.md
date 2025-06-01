@@ -1,11 +1,7 @@
 ### Hi👋 I'M Madhu Nadh
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20views&color=0e75b6&style=flat" alt="madhunadhgurram" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 
 <h1 align="center">Madhu Nadh Gurram</h1>
 
@@ -19,7 +15,7 @@
 <p align="center">Open to DevOps & Cloud opportunities🚀</p>
 
  
-📍 Location: Hyderabad, India (Born and brought up in Vinukonda, Andhra Pradesh)
+> 📍 Location: Hyderabad, India (Born and brought up in Vinukonda, Andhra Pradesh)
  
 > 💡 Striving to bridge the gap between development and operations, one automation at a time!
 
