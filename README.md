@@ -1,4 +1,20 @@
-Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> I'm Madhu Nadh
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunil-1508&label=Profile%20views&color=0e75b6&style=flat" alt="sunil" /> </p>
+
+<h1 align="center">SUNIL NOOLU</h1>
+
+<p align="center">
+  <a href="20a91a05b1@aec.edu.in"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sunil-noolu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ 
+</p>
+
+<p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing software.</p>
+
+
+
+Hi there! 
 
 <p align="center">
   <b> Madhu Nadh Gurram</b>
