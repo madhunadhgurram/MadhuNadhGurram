@@ -1,9 +1,10 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
 <p align="center">
-  <b>Madhu Nadh Gurram</b>
+  <b> Madhu Nadh Gurram</b>
 </p>    
-       
+---       
+
 **Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities🚀**
  
 📍 Location: Hyderabad, India (Born and brought up in Vinukonda, Andhra Pradesh)
