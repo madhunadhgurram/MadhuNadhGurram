@@ -2,7 +2,7 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 
 <p align="center">
-  <h1>SUNIL NOOLU</h1>
+  <h1>Madhu Nadh Gurram</h1>
 </p>
 
       
