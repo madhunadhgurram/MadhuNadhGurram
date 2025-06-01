@@ -32,7 +32,7 @@
 
 ### 🚀 Competencies  
 
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-D24939?&logoColor=white)  ![Team Working](https://img.shields.io/badge/Team%20Working-D24939?\&logoColor=white) ![Collaboration](https://img.shields.io/badge/Collaboration-D24939?\&logoColor=white)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-0078D4?&logoColor=white)  ![Team Working](https://img.shields.io/badge/Team%20Working-4479A1?\&logoColor=white) ![Collaboration](https://img.shields.io/badge/Collaboration-E6522C?\&logoColor=white)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=madhunadhgurram&theme=buefy&hide_border=true)
 
-| <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="madhunadhgurram's github stats" /></a> | <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="madhunadhgurram's github stats" /></a> |  <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
 
 <!--
@@ -59,8 +59,9 @@
 --> 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements) 
 
-### ⚡"Empowering automation today for a smarter, seamless tomorrow!"
----
+
+## ⚡"Empowering automation today for a smarter, seamless tomorrow!" <br><br>
+
 ### 🎯 Hobbies & Interests
 - 📚 Reading Novels
 - 🏸 Playing Badminton
