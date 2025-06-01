@@ -1,6 +1,8 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> I'm Madhu Nadh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunil-1508&label=Profile%20views&color=0e75b6&style=flat" alt="sunil" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20views&color=0e75b6&style=flat" alt="Madhu Nadh" /> </p>
 
 <h1 align="center">SUNIL NOOLU</h1>
 
@@ -58,7 +60,6 @@ Hi there!
 
 [![GitHub followers](https://img.shields.io/github/followers/madhunadhgurram?style=social)](https://github.com/madhunadhgurram?tab=followers)
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=madhunadhgurram&theme=buefy&hide_border=true)
 
