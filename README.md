@@ -9,7 +9,7 @@
   <a href="mailto:gurram.madhunadh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="http://www.linkedin.com/in/madhunadh-gurram-51141420a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/vicky_gurram"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/gurram_vicky"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://instagram.com/gurram_vicky"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logoColor=white" alt="Instagram"></a>
 </p>
 
 <p align="center">Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Jenkins | Terraform | Ansible | Docker | Kubernetes </p>
@@ -23,21 +23,20 @@
 > 🌍 Always eager to explore and implement cutting-edge DevOps practices. 
 
 
-### --> 🛠 Tech Stack & Skills  
+### 🛠 Tech Stack & Skills  
 | ☁️ Cloud & Platforms                                                                                | ⚙️ DevOps & CI/CD                                                                                         | 🐳 Containers & Orchestration                                                                  | 📊 Monitoring & Infra                                                                          | 🚀 IaC & Automation                                                                         | 💻 Programming Languages                                                              
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- 
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)                     | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)                     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)             | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform\&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)       
 | ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)            | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)          | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible\&logoColor=white)       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white) 
 | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud\&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab\&logoColor=white)                  | ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm\&logoColor=white)                   | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube\&logoColor=white)    | ![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer\&logoColor=white)          | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)        
 
-#### 🚀 Competencies  
+### 🚀 Competencies  
 
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-2C3E50?style=for-the-badge&labelColor)  ![Team Working](https://img.shields.io/badge/Team%20Working-2C3E50?style=for-the-badge&labelColor)
-![Collaboration](https://img.shields.io/badge/Collaboration-2C3E50?style=for-the-badge&labelColor)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-D24939?&logoColor=white)  ![Team Working](https://img.shields.io/badge/Team%20Working-D24939?\&logoColor=white) ![Collaboration](https://img.shields.io/badge/Collaboration-D24939?\&logoColor=white)
 
 ---
 
-### --> 📌 Academic Projects:
+### 📌 Projects:
 
 1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)
    - 🌟 Developed a sophisticated application interface that integrates static and dynamic features to convert sign gestures to text and text-to-speech (TTS), facilitating communication for individuals with deaf and mute impairments.
@@ -47,10 +46,8 @@
    - 🌟 Effectively deployed a dynamic web page utilizing Git Bash and Jenkins tools within a Linux environment, showcasing adeptness and proficiency in modern development methodologies.
    - 🛠 Tech used: Git, GitHub, AWS EC2 and Jenkins.
 ---
-### --> 📊 Contributions & GitHub Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/madhunadhgurram?style=social)](https://github.com/madhunadhgurram?tab=followers)
-
+### 📊 Contributions & GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=madhunadhgurram&theme=buefy&hide_border=true)
 
@@ -62,21 +59,11 @@
 --> 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements) 
 
-## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
-
-### --> 🎯 Hobbies & Interests  
+### ⚡"Empowering automation today for a smarter, seamless tomorrow!"
+---
+### 🎯 Hobbies & Interests
 
 - 📚 Reading Novels
-- 🏸 Playing Badminton  
-- 🎵 Music & Podcast Listening  
+- 🏸 Playing Badminton
+- 🎵 Music & Podcast Listening
 - 🤝 Volunteering & Community Services
-
----
-
-### --> 📫 Connect with Me:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurram.madhunadh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhunadh-gurram-51141420a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhunadhgurram)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@vicky_gurram)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gurram_vicky)
