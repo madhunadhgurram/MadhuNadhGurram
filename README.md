@@ -32,7 +32,7 @@
 
 ### 🚀 Competencies  
 
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-0078D4?&logoColor=white)  ![Team Working](https://img.shields.io/badge/Team%20Working-4479A1?\&logoColor=white) ![Collaboration](https://img.shields.io/badge/Collaboration-E6522C?\&logoColor=white)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-0078D4?&logoColor=white)  ![Team Working](https://img.shields.io/badge/Team%20Working-4479A1?\&logoColor=white) ![Collaboration](https://img.shields.io/badge/Collaboration-232F3E?\&logoColor=white)
 
 ---
 
