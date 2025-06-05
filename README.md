@@ -1,4 +1,4 @@
-### Hi👋 I'M Madhu Nadh 
+### Hi👋 I'M Madhu Nadh   
   
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:gurram.madhunadh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="http://www.linkedin.com/in/madhunadh-gurram-51141420a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/madhunadhgurram"> <img src="https://img.shields.io/badge/GitHub-%2232F3E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/madhunadhgurram"> <img src="https://img.shields.io/badge/GitHub-808080?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> 
   <a href="https://twitter.com/vicky_gurram"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
