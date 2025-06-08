@@ -6,6 +6,7 @@
 <h1 align="center">
   <img src="https://github.com/madhunadhgurram/madhunadhgurram/blob/main/name.svg" alt="Madhu Nadh Gurram" />
 </h1>
+
 <h1 align="center">Madhu Nadh Gurram</h1>
 
 <p align="center">
