@@ -4,8 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
   
 <h1 align="center">
-  <img src="https://github.com/madhunadhgurram/madhunadhgurram/blob/main/one.svg" alt="Madhu Nadh Gurram" />
+  <img src="https://github.com/madhunadhgurram/madhunadhgurram/blob/main/one.svg" alt="Madhu Nadh Gurram" width="80%" />
 </h1>
+
 
 <p align="center">
   <a href="mailto:gurram.madhunadh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
