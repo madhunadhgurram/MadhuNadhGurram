@@ -47,7 +47,7 @@
 
 2️⃣ **End-to-End DevOps Implementation for Monolithic Application** | 🔗[GitHub Repo](https://github.com/madhunadhgurram/Monolithic-Application-Deploy-Project) 
    - 🌟  Provisioned and automated 3-tier AWS infrastructure using Terraform and Ansible for CI/CD deployment of a monolithic application.
-   - 🛠 Tech used: Git, GitHub, AWS EC2 and Jenkins.
+   - 🛠 Tech Stack: AWS, Terraform, Ansible, Jenkins, GitHub, Tomcat, Prometheus, Grafana
 
 3️⃣ **Software Version Control With GIT** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Software_Version_Control_With_Git) 
    - 🌟 Effectively deployed a dynamic web page utilizing Git Bash and Jenkins tools within a Linux environment, showcasing adeptness and proficiency in modern development methodologies.
