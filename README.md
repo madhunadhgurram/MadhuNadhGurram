@@ -53,9 +53,12 @@
    - 🌟 Effectively deployed a dynamic web page utilizing Git Bash and Jenkins tools within a Linux environment, showcasing adeptness and proficiency in modern development methodologies.
    - 🛠 Tech used: Git, GitHub, AWS EC2 and Jenkins.
 
+4️⃣ **Static Website Hosting using AWS S3**  
+   - 🌟 Deployed a responsive static website using Amazon S3 with public access and error handling configuration. Gained practical knowledge of S3, IAM permissions, and optionally integrated CloudFront for content delivery.
+
 ---
 <!-- 
-4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
+ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
 -->
 
 
