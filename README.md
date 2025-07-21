@@ -42,22 +42,22 @@
 ### 📌 Projects:
 
 1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)
-   - 🌟 Developed a sophisticated application interface that integrates static and dynamic features to convert sign gestures to text and text-to-speech (TTS), facilitating communication for individuals with deaf and mute impairments.
-   - 🛠 Tech used: Python Libraries, Machine Learning Algorithms 
+   - *🌟 Developed a sophisticated application interface that integrates static and dynamic features to convert sign gestures to text and text-to-speech (TTS), facilitating communication for individuals with deaf and mute impairments.*
+   - *🛠 Tech used: Python Libraries, Machine Learning Algorithms*
 
 
 2️⃣ **End-to-End DevOps Implementation for Monolithic Application** | 🔗[GitHub Repo](https://github.com/madhunadhgurram/Monolithic-Application-Deploy-Project) 
-   - 🌟  Provisioned and automated 3-tier AWS infrastructure using Terraform and Ansible for CI/CD deployment of a monolithic application.
-   - 🛠 Tech Stack: AWS, Terraform, Ansible, Jenkins, GitHub, Tomcat, Prometheus, Grafana
+   - *🌟 Provisioned and automated 3-tier AWS infrastructure using Terraform and Ansible for CI/CD deployment of a monolithic application.*
+   - *🛠 Tech Stack: AWS, Terraform, Ansible, Jenkins, GitHub, Tomcat, Prometheus, Grafana*
 
 
 3️⃣ **Software Version Control With GIT** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Software_Version_Control_With_Git) 
    - *🌟 Effectively deployed a dynamic web page utilizing Git Bash and Jenkins tools within a Linux environment, showcasing adeptness and proficiency in modern development methodologies.*
-   - 🛠 Tech used: Git, GitHub, AWS EC2 and Jenkins.
+   - *🛠 Tech used: Git, GitHub, AWS EC2 and Jenkins.*
 
 
 4️⃣ **Static Website Hosting using AWS S3**  
-   - 🌟 Deployed a responsive static website using Amazon S3 with public access and error handling configuration. Gained practical knowledge of S3, IAM permissions, and optionally integrated CloudFront for content delivery.
+   - *🌟 Deployed a responsive static website using Amazon S3 with public access and error handling configuration. Gained practical knowledge of S3, IAM permissions, and optionally integrated CloudFront for content delivery.*
 
 ---
 <!-- 
