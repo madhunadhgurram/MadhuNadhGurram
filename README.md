@@ -18,7 +18,7 @@
 <p align="center">Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Jenkins | Terraform | Ansible | Docker | Kubernetes </p>
 <p align="center">Open to DevOps & Cloud opportunities🚀</p>
 
- 
+  
 > 📍 Location: Hyderabad, India
  
 > 💡 Striving to bridge the gap between development and operations, one automation at a time!
