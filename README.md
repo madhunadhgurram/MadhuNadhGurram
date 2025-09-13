@@ -1,4 +1,61 @@
  ### Hi👋 I'm Madhu Nadh                                  
+<h1 align="center">Hi 👋, I'm Madhu Nadh</h1>
+<h3 align="center">🚀 Project Intern at Mindlinks Inc | Aspiring DevOps & Cloud Engineer</h3>
+
+<p align="center">
+💻 Passionate DevOps & Cloud Enthusiast | Skilled in Automation, CI/CD, and Cloud Technologies  
+</p>
+<p align="center">
+Jenkins | Terraform | Ansible | Docker | Kubernetes | AWS | Azure | Python | SQL  
+</p>
+<p align="center">🌟 Open to DevOps & Cloud Opportunities</p>
+
+---
+
+### 🌟 About Me
+- 🔭 Currently working as a **Project Intern at Mindlinks Inc**  
+- 🌱 Skilled in **DevOps Tools, AWS, Azure, and Automation**  
+- 🎯 Certified in **AWS Cloud Practitioner, Microsoft Azure Fundamentals, and Privacy & Security in Online Social Media**  
+- 📚 Strong problem-solving background through projects in **End-to-End DevOps Implementation** and **Machine Learning for Sign Language Recognition**  
+- 💡 Passionate about **building scalable, automated, and secure cloud-native solutions**  
+
+---
+
+### 🛠️ Tech Stack
+- **Cloud:** AWS, Azure  
+- **DevOps Tools:** Jenkins, Terraform, Ansible, Docker, Kubernetes, Prometheus, Grafana  
+- **Programming & Scripting:** Python, Java, SQL, Bash  
+- **Other Tools:** Git, Power BI, Linux  
+
+---
+
+### 📌 Featured Projects
+- 🚀 [Monolithic Application Deployment with DevOps](https://github.com/madhunadhgurram/Monolithic-Application-Deploy-Project)  
+  *Provisioned & automated 3-tier AWS infrastructure with CI/CD pipelines using Jenkins, Terraform, and Ansible.*  
+
+- 🤟 [Decoding the Language of Hands (ML Project)](https://github.com/madhunadhgurram/Decoding_the_Language_of_Hands)  
+  *Developed an application to convert sign gestures to text and speech, improving accessibility for the hearing impaired.*  
+
+---
+
+### 🏅 Certifications
+- **AWS Certified Cloud Practitioner**  
+- **Microsoft Certified: Azure Fundamentals**  
+- **Certified in Privacy & Security in Online Social Media**  
+- **SQL Basics & Python Basics – HackerRank**  
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/madhunadh-gurram-51141420a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gurram.madhunadh@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/madhunadhgurram"><img align="center" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [Madhu Nadh](https://github.com/madhunadhgurram)  
                            
 <p align="left">    
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
