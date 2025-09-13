@@ -35,6 +35,17 @@
 
 ---
 
+### 📜 Employment History  
+
+🟢 **Project Intern – Mindlinks Inc** *(Present)*  
+- Contributing to real-time projects, focusing on **automation workflows, QA practices, and cloud-native solutions**.  
+- Gaining hands-on exposure to **DevOps, Testing, and Cloud technologies**.  
+
+⚪ **Infrastructure Support Engineer – IntouchCX** *(Jul 2024 – Jan 2025)*  
+- Supported infrastructure performance, troubleshooting, and deployments.  
+- Contributed to **automation and scalability improvements**.  
+
+---
 ### 📌 Projects:
 
 1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)
