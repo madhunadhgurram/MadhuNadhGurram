@@ -1,7 +1,9 @@
  ### Hi👋 I'm Madhu Nadh                                  
-
 <p align="left">    
-  <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="/Daggu-phaniharsha/Daggu-phaniharsha/raw/main/phani-transparent.svg" alt="Phani Harsha Daggu" width="100%" style="max-width: 100%;" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
    
 <h1 align="center">
   <img src="https://github.com/madhunadhgurram/madhunadhgurram/blob/main/one.svg" alt="Madhu Nadh Gurram" width="80%" />
