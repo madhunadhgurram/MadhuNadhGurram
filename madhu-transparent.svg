@@ -9,7 +9,7 @@
           margin: 0;
           padding: 10px;
           padding-top: -100px;
-          bottom: -60px; /* Moves line closer to badges */
+          bottom: -80px; /* Moves line closer to badges */
           text-align: center;
           position: relative;
           background: linear-gradient(to right, #00b4d8, #8e44ad);
