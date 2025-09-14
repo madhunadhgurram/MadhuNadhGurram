@@ -8,6 +8,7 @@
           font-weight: 700;
           margin: 0;
           padding: 10px;
+          padding-top: 5px;
           bottom: -60px; /* Moves line closer to badges */
           text-align: center;
           position: relative;
