@@ -7,9 +7,9 @@
           font-size: 3.5em;
           font-weight: 700;
           margin: 0;
-          padding: 10px;
-          padding-top: -200px;
-          bottom: -80px; /* Moves line closer to badges */
+          padding: 20px;
+          padding-top: -50px;
+          bottom: -20px; /* Moves line closer to badges */
           text-align: center;
           position: relative;
           background: linear-gradient(to right, #00b4d8, #8e44ad);
