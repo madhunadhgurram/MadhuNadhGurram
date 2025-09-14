@@ -3,16 +3,7 @@
 <p align="left">            
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />  
   
-<img src="phani-transparent.svg" alt="Phani Harsha Daggu" width="100%" /> <p align="left">    
-  <img src="/Daggu-phaniharsha/Daggu-phaniharsha/raw/main/phani-transparent.svg" alt="Phani Harsha Daggu" width="100%" style="max-width: 100%;" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Visitors&color=0e75b6&style=flat" alt="madhunadhgurram" />  <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-   
-<h1 align="center">
-  <img src="https://github.com/madhunadhgurram/madhunadhgurram/blob/main/one.svg" alt="Madhu Nadh Gurram" width="80%" />
-</h1>
-
+<img src="madhu-transparent.svg" alt="Madhu Nadh Gurram" width="100%" /> <p align="left">    
 
 <p align="center">
   <a href="mailto:gurram.madhunadh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -23,7 +14,6 @@
 <p align="center">Project Intern at Mindlinks Inc | Passionate about Technology | Jenkins | Terraform | Ansible | Docker </p>
 
 
-  
 > 📍Location: Bengaluru, India
 
 > Passionate about delivering scalable, reliable, and quality-driven solutions
