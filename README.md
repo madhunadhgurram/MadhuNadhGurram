@@ -16,6 +16,7 @@
 
 <p align="center">Project Intern at Mindlinks Inc | Passionate about Technology | Jenkins | Terraform | Ansible | Docker </p>
 
+
   
 > 📍Location: Bengaluru, India
 
@@ -70,7 +71,6 @@
 <!-- 
  5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
 -->
-
 
 ### 📊 Contributions & GitHub Stats
 
