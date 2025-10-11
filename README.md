@@ -35,7 +35,7 @@
 
 ### 📜 Employment History  
 
-🟢 **Project Intern – Mindlinks Inc** *(Present)*  
+🟢 **Project Intern – Mindlinks Inc** *(Sep 2025 - Present)*  
 - Contributing to real-time projects, focusing on **automation workflows, QA practices, and cloud-native solutions**.  
 - Gaining hands-on exposure to **DevOps, Testing, and Cloud technologies**.  
 
