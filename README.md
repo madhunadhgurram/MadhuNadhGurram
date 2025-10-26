@@ -40,7 +40,7 @@ I believe the best way to learn is by building things. My projects show this —
 | ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) | ![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-FF9900?logo=aws&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) | ![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F00?logo=amazonaws&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) |  
 
----
+
 
 ### 🚀 Core Competencies  
 - **Automating infrastructure** using Terraform and Ansible  
@@ -112,11 +112,6 @@ I believe the best way to learn is by building things. My projects show this —
 
 - 🤝 I enjoy working with team members from different areas, sharing ideas, and taking ownership to deliver better results.
   
----
-
-### ⚡ Personal Motto  
-> *"Empowering automation today for a smarter, seamless tomorrow."*
-
 ---
 
 ### 🎨 Hobbies & Interests  
