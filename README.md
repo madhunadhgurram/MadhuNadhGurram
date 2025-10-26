@@ -98,7 +98,7 @@ I believe the best way to learn is by building things. My projects show this —
 | <a href="https://github.com/madhunadhgurram"><img src="https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/madhunadhgurram"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | --- | --- |
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=tokyonight&margin-w=15)
 
 ---
 
@@ -120,10 +120,9 @@ I believe the best way to learn is by building things. My projects show this —
 ---
 
 ### 🎨 Hobbies & Interests  
-- 📚 Reading Technology Blogs & Fiction Novels  
+- 📚 Reading Novels  
 - 🏸 Playing Badminton  
 - 🎵 Listening to Music & Podcasts  
-- 💬 Exploring Cloud Architectures & New Tech Trends  
 - 🤝 Volunteering & Community Engagement  
 
 ---
