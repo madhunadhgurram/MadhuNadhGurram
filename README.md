@@ -43,7 +43,7 @@ I believe the best way to learn is by building things. My projects show this —
 ---
 
 ### 🚀 Core Competencies  
-- **Infrastructure Automation** with Terraform & Ansible  
+- **Automating infrastructure** using Terraform and Ansible  
 - **Continuous Integration / Continuous Deployment (CI/CD)** using Jenkins and AWS CodePipeline  
 - **Containerization & Orchestration** with Docker & Kubernetes  
 - **Monitoring and Alerting** using Prometheus & Grafana  
