@@ -63,9 +63,8 @@ I believe the best way to learn is by building things. My projects show this —
 - Gaining practical experience with **AWS, Jenkins, Selenium, and QA testing** tools.  
 
 ⚪ **Infrastructure Support Engineer – IntouchCX** *(Jul 2024 – Jan 2025)*  
-- Provided **technical support** for production infrastructure ensuring uptime and service stability.  
-- Monitored and maintained **Linux servers**, participated in **root-cause analysis**, and proposed **automation solutions** to reduce manual effort.  
-- Supported cross-functional teams during **system migrations and release deployments**.
+- Supported **infrastructure performance, troubleshooting, and deployments**. 
+- Contributed to **automation and scalability improvements**.
 
 ---
 
