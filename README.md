@@ -51,7 +51,6 @@ I believe the best way to learn is by building things. My projects show this —
 
 ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-0078D4?&logoColor=white) 
 ![Team Work](https://img.shields.io/badge/Team%20Work-4479A1?&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-232F3E?&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-0e75b6?&logoColor=white)
 
 ---
