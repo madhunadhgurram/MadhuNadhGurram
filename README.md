@@ -58,9 +58,9 @@ I believe the best way to learn is by building things. My projects show this —
 ### 💼 Employment History  
 
 🟢 **Project Intern – Mindlinks Inc** *(Sep 2025 – Present)*  
-- Working on **real-time client projects** focused on automation, quality assurance, and DevOps-based deployment.  
-- Assisting in building and optimizing **CI/CD pipelines**, enhancing **testing automation**, and improving **cloud infrastructure reliability**.  
-- Gaining practical experience across **AWS, Jenkins, and containerized deployments**.  
+- Working on **real-time client projects** focused on **software testing, automation, and quality assurance**.  
+- Involved in **test planning, execution, and reporting for web and API applications** to ensure product quality.  
+- Gaining practical experience with **AWS, Jenkins, Selenium, and QA testing** tools.  
 
 ⚪ **Infrastructure Support Engineer – IntouchCX** *(Jul 2024 – Jan 2025)*  
 - Provided **technical support** for production infrastructure ensuring uptime and service stability.  
