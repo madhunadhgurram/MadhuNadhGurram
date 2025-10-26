@@ -44,11 +44,10 @@ I believe the best way to learn is by building things. My projects show this —
 
 ### 🚀 Core Competencies  
 - **Automating infrastructure** using Terraform and Ansible  
-- **Continuous Integration / Continuous Deployment (CI/CD)** using Jenkins and AWS CodePipeline  
-- **Containerization & Orchestration** with Docker & Kubernetes  
-- **Monitoring and Alerting** using Prometheus & Grafana  
-- **Scripting & Debugging** with Bash, Python, and Linux tools  
-- **Version Control & Collaboration** using Git and GitHub  
+- **Building and deploying projects automatically (CI/CD)** with Jenkins and AWS CodePipeline
+- **Tracking system performance** with Prometheus and Grafana  
+- **Writing and fixing scripts** using Python and Linux commands  
+- **Managing code and teamwork** through Git and GitHub  
 
 ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-0078D4?&logoColor=white) 
 ![Team Work](https://img.shields.io/badge/Team%20Work-4479A1?&logoColor=white)
