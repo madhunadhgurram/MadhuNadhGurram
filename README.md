@@ -73,8 +73,8 @@ I believe the best way to learn is by building things. My projects show this —
 1️⃣ **Decoding the Language of Hands - Machine Learning in Sign Language** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Decoding_the_Language_of_Hands-SignLanguage)  
    - Developed a **machine learning-based model** capable of recognizing static and dynamic sign gestures and converting them into **text and speech output**.  
    - Enhanced accessibility by integrating **real-time gesture recognition** and **text-to-speech (TTS)** features.  
-   - 🛠 **Tech Stack:** Python, OpenCV, TensorFlow, Keras, NLP
-
+   - 🛠 **Tech Stack:** Python (OpenCV, NumPy, Pillow, Tkinter), MediaPipe, and Convolutional Neural Networks (CNN)
+   
 2️⃣ **End-to-End DevOps Implementation for Monolithic Application** | 🔗[GitHub Repo](https://github.com/madhunadhgurram/Monolithic-Application-Deploy-Project)  
    - Built a **fully automated 3-tier architecture** on AWS using Terraform and Ansible.  
    - Designed and implemented **CI/CD pipelines with Jenkins** for continuous deployment to Apache Tomcat.  
@@ -104,11 +104,14 @@ I believe the best way to learn is by building things. My projects show this —
 
 ### 🎯 Career Goals  
 
-- 🔭 To grow as a **DevOps Engineer** who bridges the gap between development and operations through innovation and automation.  
-- 🌩️ To contribute to **scalable cloud architectures** that enable rapid deployment and reliability.  
-- 📈 To continuously learn and implement **modern DevOps practices** such as Infrastructure as Code (IaC), observability, and microservice orchestration.  
-- 🤝 To collaborate in **cross-functional agile teams** that value transparency, ownership, and automation.
+- 🔭 I aim to grow as a DevOps Engineer who connects development and operations through smart automation.
 
+- 🌩️ I want to help build scalable and reliable cloud systems that support smooth deployments.
+
+- 📈 I’m focused on learning and using modern DevOps tools and practices like Infrastructure as Code, monitoring, and container orchestration.
+
+- 🤝 I enjoy working with team members from different areas, sharing ideas, and taking ownership to deliver better results.
+  
 ---
 
 ### ⚡ Personal Motto  
