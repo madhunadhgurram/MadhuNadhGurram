@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Madhu Nadh       
      
-<p align="left"> 
+<p align="left">  
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Visitors" /> 
   <img src="https://img.shields.io/github/followers/madhunadhgurram?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
