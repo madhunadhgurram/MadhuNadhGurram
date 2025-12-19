@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Madhu Nadh            
+### 👋 Hi, I'm Madhu Nadh             
                
 <p align="left">   
   <img src="https://komarev.com/ghpvc/?username=madhunadhgurram&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Visitors" />   
