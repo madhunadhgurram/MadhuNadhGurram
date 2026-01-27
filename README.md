@@ -6,7 +6,7 @@
 </p>
 
 <img src="madhu-transparent.svg" alt="Madhu Nadh Gurram" width="100%" />
-
+ 
 <p align="center">
   <a href="mailto:gurram.madhunadh@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="http://www.linkedin.com/in/madhunadh-gurram-51141420a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
